@@ -6,6 +6,7 @@ public class ReverseString {
 
 	public static void main(String[] args) {
 
+		//This is modification line
 		
 		Scanner sc=new Scanner(System.in);    System.out.println("please enter number");
 		int a = sc.nextInt();
